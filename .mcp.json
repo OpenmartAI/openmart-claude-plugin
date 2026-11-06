@@ -1,1 +1,12 @@
-{"mcpServers":{"openmart":{"type":"http","url":"https://api.openmart.ai/mcp"}}}
+{
+  "mcpServers": {
+    "openmart": {
+      "type": "http",
+      "url": "https://api.openmart.ai/mcp",
+      "oauth": {
+        "clientId": "561fa9ea-003f-49cf-83e2-cd1210013edf",
+        "callbackPort": 48317
+      }
+    }
+  }
+}

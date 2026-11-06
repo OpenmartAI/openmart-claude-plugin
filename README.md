@@ -8,6 +8,8 @@ Support: https://github.com/OpenmartAI/openmart-claude-plugin/issues
 
 Install the plugin, open its Connectors tab, and connect Openmart. Sign in to Openmart, choose a team, and review the permissions. Ask “Which Openmart team am I connected to, and how many credits are available?” before starting a search. On an organization-managed plan, your administrator may need to enable the connector.
 
+In Claude Code, open `/mcp`, choose Openmart, and authenticate in your browser. Keep the terminal open until sign-in finishes. The browser returns to port 48317 on your computer. If the port is busy, close the other sign-in session and try again.
+
 ## Try it
 
 - “Find three independent coffee shops in Austin, Texas, with websites. Show the locations and save the results.”
