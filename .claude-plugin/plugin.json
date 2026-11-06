@@ -1,0 +1,9 @@
+{
+  "name": "openmart",
+  "version": "0.1.0",
+  "description": "Find local businesses by location and category, research companies, and enrich selected leads with decision-maker contacts using your Openmart account.",
+  "author": { "name": "Openmart", "url": "https://www.openmart.com" },
+  "homepage": "https://www.openmart.com",
+  "repository": "https://github.com/OpenmartAI/openmart-claude-plugin",
+  "license": "MIT"
+}
